@@ -26,7 +26,7 @@ st.set_page_config(page_title="Heart Disease", page_icon=":heart:")
 
 st.title("Rizky Okka Heart Disease Prediction")
 st.write(
-    f"**_Model's Accuracy menggunakan KNN_** :  :green[**{accuracy}**]% (:green[Tinggi])"
+    f"**_Model's Accuracy menggunakan XGBoost_** :  :green[**{accuracy}**]% (:green[Tinggi])"
 )
 st.write("")
 
